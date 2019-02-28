@@ -1,1 +1,0 @@
-#define UTS_RELEASE "3.18.136-perf-ga614ef7-dirty"
